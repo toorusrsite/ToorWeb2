@@ -14,7 +14,7 @@ theme = "hugo-theme-nix"
   HeaderHostname = "toorusr.md"
   Email = "your_email"
   About = "info_about_you"
-  ProfilePicture = "https://pbs.twimg.com/profile_images/485564678039302144/Fjxv6IbQ.png"
+  ProfilePicture = "./media/ueberblcik.png"
   GoogleAnalytics = "your_google_analytics_id"
 
 [menu]
