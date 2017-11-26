@@ -14,7 +14,7 @@ theme = "hugo-theme-nix"
   HeaderHostname = "toorusr.md"
   Email = "your_email"
   About = "info_about_you"
-  ProfilePicture = "./media/ueberblcik.png"
+  ProfilePicture = "https://github.com/toorusrsite/ToorWeb2/blob/master/media/ueberblcik.png?raw=true"
   GoogleAnalytics = "your_google_analytics_id"
 
 [menu]
